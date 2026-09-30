@@ -1,0 +1,11 @@
+# 编辑器 / 系统杂物
+.vs/
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
+
+# 打补丁时留下的还原点（属于别人的机器，不入库）
+*.bak-*
